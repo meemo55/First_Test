@@ -5,7 +5,7 @@ public class Original {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Second sec = new Second();
-		sec.Message("Jenkins test 46258");
+		sec.Message("Jenkins test 46258 to check pull");
 	}
 
 }
